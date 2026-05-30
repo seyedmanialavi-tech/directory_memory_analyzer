@@ -1,27 +1,35 @@
-# File Scanner
+# File Scanner - My First GitHub Project
 
-A simple yet powerful desktop application to find and display large files in any directory. Built with Python's Tkinter for the GUI and uses multi-threading for responsive scanning.
+Hey there! 👋
 
-## Features
+This is my **first ever project** on GitHub. I'm a 7th grade student and this is the first time I'm using Git and GitHub. So please be nice! 😊
 
-- Select any folder on your system to scan
-- Set minimum file size threshold (in MB)
-- Choose how many top largest files to display
-- Real-time progress indicator during scanning
-- Stop scanning at any time
-- Display results with file name, size, and full path
-- Human-readable file size formatting (B, KB, MB, GB, TB)
-- Clean and simple white background interface
+## What is this?
 
-## Requirements
+This is a simple program that finds big files on your computer. 
+You just tell it which folder to look in, and it shows you the largest files inside.
 
-- Python 3.6 or higher
-- No external dependencies required (uses only standard library)
+## Why I made this?
 
-## Installation
+I wanted to learn:
+- How to code with Python
+- How to use Git and GitHub
+- How to make a real program that people can use
 
-1. Clone this repository:
+## What can it do?
+
+- Look inside any folder you choose
+- Find files bigger than the size you set (ex: 100 MB)
+- Show you the top biggest files
+- Stop scanning if it takes too long
+- Show file names, sizes, and paths
+
+## How to run it?
+
+1. Make sure you have Python installed (version 3.6 or higher)
+2. Download this project
+3. Open terminal in the project folder
+4. Run this command:
 ```bash
-git clone https://github.com/yourusername/file-scanner.git
-cd file-scanner
+python first_app.py
 
