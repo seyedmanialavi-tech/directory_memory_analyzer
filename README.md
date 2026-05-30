@@ -24,4 +24,5 @@ A simple yet powerful desktop application to find and display large files in any
 ```bash
 git clone https://github.com/yourusername/file-scanner.git
 cd file-scanner
+python first_app.py
 
